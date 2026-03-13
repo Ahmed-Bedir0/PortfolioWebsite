@@ -1,0 +1,42 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/PLPredictor.png", 
+            "title": "PL Predictor", 
+            "description": "Python, scikit-learn, Pandas, NumPy", 
+            "url": "https://github.com/Ahmed-Bedir0/PL2026_ML_Predictor"
+        },
+        {
+            "cover": "/portfolio/AmazonPriceAnalysis.jpg",
+            "title": "Amazon Price Analysis",
+            "description": "Python, Streamlit, TinyDB, LangChain, OpenAI, Oxylabs",
+            "url": "https://github.com/Ahmed-Bedir0/AmazonPriceAnalysis"
+        },
+        {
+            "cover": "/portfolio/JwtImage.png",
+            "title": "Spring Seccurity",
+            "description": "Spring Boot, JWT",
+            "url": "https://github.com/Ahmed-Bedir0/Spring-Security"
+        },
+        {
+            "cover": "/portfolio/Jetpack.png", 
+            "title": "GTA Adventure", 
+            "description": "HTML, CSS, JavaScript", 
+            "url": "https://gta-adventure-ten.vercel.app"
+        },
+        {
+            "cover": "/portfolio/automate-finances-python.jpg",
+            "title": "Automate Finances with Python",
+            "description": "Python, Streamlit, Pandas, Plotly, NumPy",
+            "url": "https://github.com/Ahmed-Bedir0/automate-finances-python"
+        },
+        {
+            "cover": "/portfolio/duck-hunt-shot.jpg",
+            "title": "Duck Hunt",
+            "description": "HTML, CSS, JavaScript",
+            "url": "https://duck-hunt-xi-eight.vercel.app"
+        }
+
+
+    ]
+}
