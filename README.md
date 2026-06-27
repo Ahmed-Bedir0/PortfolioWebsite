@@ -1,6 +1,6 @@
 # Ahmed Bedir's Coding Portfolio
 
-Welcome to my coding portfolio! This web application is built using ReactJs with Sass styling, showcasing my skills, projects, and achievements in the field of web development. You can check it out [here!](https://ahmedbedir-portfolio.netlify.app/)
+Welcome to my coding portfolio! This web application is built using ReactJs with Sass styling, showcasing my skills, projects, and achievements in the field of web development. You can check it out [here!](https://ahmedbedir-portfolio.netlify.app)
 
 <img width="957" height="414" alt="image" src="https://github.com/user-attachments/assets/6d528ef7-c9e7-4996-a05f-f41a931162a3" />
 
